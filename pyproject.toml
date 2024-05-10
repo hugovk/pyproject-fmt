@@ -31,6 +31,7 @@ dynamic = [
   "version",
 ]
 dependencies = [
+  "packaging>=23.2",
   "pyproject-fmt-rust==1",
 ]
 optional-dependencies.docs = [
